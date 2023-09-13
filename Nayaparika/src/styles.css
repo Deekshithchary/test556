@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+#container{
+    background-color: aqua;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    height: 200px;
+}
+
+@import url(../node_modules/bootstrap/dist/css/bootstrap.css);
+@import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);
